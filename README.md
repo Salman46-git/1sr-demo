@@ -1,2 +1,3 @@
-# 1sr-demo
+# 1st-demo
 this is my first git repository
+Author : Salman S K
